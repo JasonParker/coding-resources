@@ -6,3 +6,6 @@ Resources for technical topics
 
 ## Networking
 [Low-level Academy](https://lowlvl.org/)
+
+## Tools
+[Open-Source Tools and Data for Music Source Separation](https://source-separation.github.io/tutorial/landing.html)
